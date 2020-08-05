@@ -1,5 +1,5 @@
 //Prog 6 - cabeçalho, f de 0 a 1000 de 10 em 10, inverter colunas da tabela, adicionado kelvin
-//Stefano Giordano - 05/06/2020
+//Stefano Giordano - 05/08/2020
 
 #include <iostream>
 

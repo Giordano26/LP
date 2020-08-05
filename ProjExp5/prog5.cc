@@ -1,3 +1,6 @@
+//Prog 05
+//Stefano Giordano - 05/08/2020
+
 #include <iostream>
 int main(){
     float fahr, celsius;
