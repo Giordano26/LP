@@ -8,7 +8,9 @@ int main(){
     int inicio, fim, incr;
     inicio = 0; fim = 1000; incr = 10;
     fahr = inicio;
+    printf("=========================================\n");
     printf("Celsius        Fahrenheint       Kelvin\n");
+    printf("=========================================\n");
     while(fahr <= fim){
         celsius = 5*(fahr-32)/9;
         kelvin = celsius + 273.15;
